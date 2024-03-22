@@ -1,3 +1,18 @@
+<p aling="center">
+This project is a robust web application built with Laravel, a PHP framework known for its expressive, elegant syntax. Laravel eases many common tasks in web projects, providing a simple, fast routing engine, a powerful dependency injection container, and more.
+
+The frontend of the application is built with Vue.js, a progressive JavaScript framework used for building user interfaces. The project uses Vite as a build tool, which provides a faster and leaner development experience for modern web projects.
+
+The project uses npm for managing JavaScript packages and Composer for managing PHP dependencies. The application's styles are handled by Tailwind CSS, a utility-first CSS framework for rapidly building custom user interfaces.
+
+The codebase adheres to the standards specified in the included .editorconfig and phpunit.xml files, ensuring consistent code style and reliable unit tests.
+
+To start working, please clone the repository and install all the dependencies, then run: `npm run dev` to compile the assets and `php artisan serve` to start the development server, `npm run dev`and `sudo /opt/lampp/manager-linux-x64.run` to start the server.
+
+
+</p>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
